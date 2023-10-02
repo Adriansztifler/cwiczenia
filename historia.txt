@@ -1,0 +1,25 @@
+commit 7e76e44d60d6e6b358b592ee46ab077cb6d82b41
+Author: AdrianSzefler <142333547+AdrianSzefler@users.noreply.github.com>
+Date:   Thu Sep 28 19:53:10 2023 +0200
+
+    Revert "usunieto linijke refrenu"
+    
+    This reverts commit d0d208379d5659370cf0578b57012d9f3d7ae5fb.
+
+commit d0d208379d5659370cf0578b57012d9f3d7ae5fb
+Author: AdrianSzefler <142333547+AdrianSzefler@users.noreply.github.com>
+Date:   Thu Sep 28 19:46:40 2023 +0200
+
+    usunieto linijke refrenu
+
+commit 2cd48f39f69852feccf45d2cbc846fac01612c22
+Author: AdrianSzefler <142333547+AdrianSzefler@users.noreply.github.com>
+Date:   Thu Sep 28 19:42:34 2023 +0200
+
+    dokonano podziału nazwrotki w oddzielnych plikach
+
+commit f997e718aa7174f1d2e15ba9d1f73f776e2cda4b
+Author: AdrianSzefler <142333547+AdrianSzefler@users.noreply.github.com>
+Date:   Thu Sep 28 17:43:54 2023 +0200
+
+    dodano plik piosenka
